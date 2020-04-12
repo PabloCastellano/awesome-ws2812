@@ -1,6 +1,6 @@
 # Awesome ws2812
 
-A curated list of awesome resources for ws2812* LED strips and matrices. You usually control these devices using ESP8266 and ESP32 chips.
+A curated list of awesome resources for ws281x LED strips and matrices. You usually control these devices using ESP8266 and ESP32 chips.
 
 **NOTE: This is a WIP list that I started since I could not find any.**
 
