@@ -43,7 +43,7 @@ LED matrices
 
 * ArduLED [1.0](https://github.com/kris701/ArduLED) and [2.0](https://github.com/kris701/ArduLED-2.0) - Control NeoPixels (ws2812b) easier than ever with an Arduino!
 * [EspFire2012](https://github.com/krzychb/EspFire2012) - Testing of NeoPixel libraries to do fire simulation with Fire2012.
-* McLighting [v2](https://github.com/toblum/McLighting) and [v3](https://github.com/FabLab-Luenen/McLighting)- The ESP8266 based multi-client lighting gadget.
+* McLighting [v2](https://github.com/toblum/McLighting) and [v3](https://github.com/FabLab-Luenen/McLighting) - The ESP8266 based multi-client lighting gadget.
 * [Music LED Strip Control](https://github.com/TobKra96/music_led_strip_control) - LED strip audio visualization in real time with web interface on a Raspberry Pi.
 * [Music Reactive WS2812B Arduino](https://github.com/AnshumanFauzdar/Music-Reactive-WS2812B-Arduino) - LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack.
 * [Responsive LED Control](https://github.com/doctormord/Responsive_LED_Control) - Responsive Led Control based on McLightning & Grisworld-Led-Controller with FastLED.
@@ -69,11 +69,11 @@ LED matrices
 * [Audio Reactive LED Matrix](https://github.com/modustrialmaker/Audio-Reactive-LED-Matrix) - Code for 16x16 LED Matrix (WS2812) that reacts to sounds detected from an electret microphone, and switches modes with a momentary push button.
 * [ESP8266 NeoPixel Dashboard](https://github.com/neoxharsh/ESP8266_NeoPixel_Dashboard) - ESP8266 based Neopixel dashboard, it shows current time, can show a custom message and have upto 41 prebuild effects.
 * [NeoPixel2048](https://github.com/peacheym/NeoPixel2048) - Implementation of the popular game '2048' built using a 4x4 NeoPixel Matrix and powered by the Arduino micro-controller.
+* [LED Lightpainter](https://github.com/TheMasterFX/LED-Lightpainter) - A DIY Pixelstick clone for Light Painting using the ESP8266 and a WS2812 Strip.
 * [LED Matrix Shades](https://github.com/macetech/LEDMatrixShades) - Wearable LED matrix shaped like slotted sunglasses.
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
 * [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.(le
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
-* [LED-Lightpainter](https://github.com/TheMasterFX/LED-Lightpainter) A DIY Pixelstick clone using the ESP8266 and a WS2812 Strip (Neopixel) 
 
 ### Videos
 
