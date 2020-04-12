@@ -73,6 +73,7 @@ LED matrices
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
 * [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.(le
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
+* [LED-Lightpainter](https://github.com/TheMasterFX/LED-Lightpainter) A DIY Pixelstick clone using the ESP8266 and a WS2812 Strip (Neopixel) 
 
 ### Videos
 
