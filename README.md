@@ -35,6 +35,9 @@ LED strips
 LED matrices
 
 * [Adafruit NeoMatrix](https://github.com/adafruit/Adafruit_NeoMatrix) - Adafruit_GFX-compatible library for NeoPixel grids.
+* [LEDMatrix](https://github.com/AaronLiddiment/LEDMatrix) - FastLED Flexible Matrix Class.
+* [LEDSprites](https://github.com/AaronLiddiment/LEDSprites) - FastLED Sprite Class requires LEDMatrix Class.
+* [LEDText](https://github.com/AaronLiddiment/LEDText) - FastLED Flexible Text Message Class requires LEDMatrix Class.
 
 ### LED strip controllers
 
@@ -54,13 +57,21 @@ LED matrices
 * [FB.Light](https://github.com/bombcheck/FB.Light) - WiFi-LED-Strip-Controller with NTP-driven scrolling clock, text and other effects.
 * [White Rabbit](https://github.com/jwalanta/whiterabbit) - Neopixel based XY Matrix running via Raspberry Pi to display time, weather, and news.
 
+### Tools
+
+* [HTML5 LED Matrix](https://github.com/sallar/led-matrix) - An HTML5 Canvas LED Matrix Simulator.
+* [LED Matrix Simulator](https://github.com/sallar/led-matrix-simulator) - A simple HTML5 LED Matrix Simulator for fun.
+* [Matrix display store](https://github.com/sallar/matrix-display-store) - Tools for creating Led Matrix content.
+* [NeoMatrix Generator](https://github.com/cesnokov/NeoMatrix-Generator) - NeoMatrix VISIWIG graphics editor.
+
 ### Projects
 
 * [Audio Reactive LED Matrix](https://github.com/modustrialmaker/Audio-Reactive-LED-Matrix) - Code for 16x16 LED Matrix (WS2812) that reacts to sounds detected from an electret microphone, and switches modes with a momentary push button.
 * [ESP8266 NeoPixel Dashboard](https://github.com/neoxharsh/ESP8266_NeoPixel_Dashboard) - ESP8266 based Neopixel dashboard, it shows current time, can show a custom message and have upto 41 prebuild effects.
-* [NeoMatrix Generator](https://github.com/cesnokov/NeoMatrix-Generator) - NeoMatrix VISIWIG graphics editor.
 * [NeoPixel2048](https://github.com/peacheym/NeoPixel2048) - Implementation of the popular game '2048' built using a 4x4 NeoPixel Matrix and powered by the Arduino micro-controller.
+* [LED Matrix Shades](https://github.com/macetech/LEDMatrixShades) - Wearable LED matrix shaped like slotted sunglasses.
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
+* [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.(le
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
 
 ### Videos
