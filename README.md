@@ -10,6 +10,13 @@ A curated list of awesome resources for ws281x LED strips and matrices. You usua
 
 The ws2812 is an intelligent control LED light source, with the control circuit and RGB chip integrated directly into a 5050 RGB LED.
 
+Some features:
+
+* The control circuit and the LED share the only power source.
+* Built-in electric reset circuit and power lost reset circuit.
+* Each pixel of the three primary color can achieve 256 brightness display, completed 16777216 color full color display, and scan frequency not less than 400Hz/s.
+* Cascading port transmission signal by single line.
+
 ## Contents
 
 ### Libraries
