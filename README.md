@@ -20,6 +20,7 @@ LED strips
 * [blynk](https://github.com/blynkkk/blynk-library) - Blynk library for embedded hardware.
 * [FastLED](https://github.com/FastLED/FastLED) - Library for colored LED animation on Arduino
 * [ledcat](https://github.com/polyfloyd/ledcat) - Simple utility that aims to provide a standard interface for driving LED-strips and such.
+* [NeoPixelBus](https://github.com/Makuna/NeoPixelBus) - Adafruit enhanced NeoPixel support library.
 * [WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - Drop-in replacement for the Adafruit NeoPixel library with additional features.
 * [raspi_ws2812](https://github.com/UrielGuy/raspi_ws2812) - A kernel module able to run as many WS2812 strips as there are GPIO pins on Raspberry Pi Zero.
 * [rpi_ws281x](https://github.com/jgarff/rpi_ws281x) - Userspace Raspberry Pi PWM library for WS281X LEDs.
@@ -31,10 +32,11 @@ LED matrices
 ### LED strip controllers
 
 * ArduLED [1.0](https://github.com/kris701/ArduLED) and [2.0](https://github.com/kris701/ArduLED-2.0) - Control NeoPixels (ws2812b) easier than ever with an Arduino!
-* [Responsive LED Control](https://github.com/doctormord/Responsive_LED_Control) - Responsive Led Control based on McLightning & Grisworld-Led-Controller with FastLED.
+* [EspFire2012](https://github.com/krzychb/EspFire2012) - Testing of NeoPixel libraries to do fire simulation with Fire2012.
 * McLighting [v2](https://github.com/toblum/McLighting) and [v3](https://github.com/FabLab-Luenen/McLighting)- The ESP8266 based multi-client lighting gadget.
-* [Music-Reactive-WS2812B-Arduino](https://github.com/AnshumanFauzdar/Music-Reactive-WS2812B-Arduino) - LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack.
 * [Music LED Strip Control](https://github.com/TobKra96/music_led_strip_control) - LED strip audio visualization in real time with web interface on a Raspberry Pi.
+* [Music Reactive WS2812B Arduino](https://github.com/AnshumanFauzdar/Music-Reactive-WS2812B-Arduino) - LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack.
+* [Responsive LED Control](https://github.com/doctormord/Responsive_LED_Control) - Responsive Led Control based on McLightning & Grisworld-Led-Controller with FastLED.
 * [Simple LED Strip Controller](https://github.com/eighthree/Simple-LED-Strip-Controller) - ESP8266 Based LED light strip controller via a web browser.
 * [xmas-tree](https://github.com/designer2k2/xmas-tree) - XMAS Tree from stacked ws2812 rings driven by a Digispark.
 * [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B RGB LEDs with an ESP8266 over WiFi!
@@ -53,3 +55,12 @@ LED matrices
 * [NeoPixel2048](https://github.com/peacheym/NeoPixel2048) - Implementation of the popular game '2048' built using a 4x4 NeoPixel Matrix and powered by the Arduino micro-controller.
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
+
+### Videos
+
+* [Fire2012: fire simulation for Arduino and LEDs](https://www.youtube.com/watch?v=_oVVCXOFDkw)
+* [Using I2S on the ESP8266 to drive WS2812Bs](https://www.youtube.com/watch?v=6zqGwxqJQnw)
+
+### Miscellanea
+
+* [Best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to avoid damaging your NeoPixels.
