@@ -74,6 +74,7 @@ LED matrices
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
 * [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.(le
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
+* [WordClock](https://github.com/maarten-pennings/WordClock) - A clock that tells time in plain text ([video](https://youtu.be/u285F07go_c)).
 
 ### Videos
 
