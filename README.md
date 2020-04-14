@@ -72,15 +72,17 @@ LED matrices
 * [LED Lightpainter](https://github.com/TheMasterFX/LED-Lightpainter) - A DIY Pixelstick clone for Light Painting using the ESP8266 and a WS2812 Strip.
 * [LED Matrix Shades](https://github.com/macetech/LEDMatrixShades) - Wearable LED matrix shaped like slotted sunglasses.
 * [LED Protest Sign Scroller](https://github.com/danasf/LEDProtestSign) - WS2812 Matrix Protest Sign.
-* [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.(le
+* [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
 * [WordClock](https://github.com/maarten-pennings/WordClock) - A clock that tells time in plain text ([video](https://youtu.be/u285F07go_c)).
 
 ### Videos
 
+* [1000 Addressable LED Lights Project Overview](https://www.youtube.com/watch?v=VNhWM4Mnd-I)
 * [Fire2012: fire simulation for Arduino and LEDs](https://www.youtube.com/watch?v=_oVVCXOFDkw)
 * [Using I2S on the ESP8266 to drive WS2812Bs](https://www.youtube.com/watch?v=6zqGwxqJQnw)
 
 ### Miscellanea
 
+* [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/)
 * [Best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to avoid damaging your NeoPixels.
