@@ -81,9 +81,9 @@ LED matrices
 * [1000 Addressable LED Lights Project Overview](https://www.youtube.com/watch?v=VNhWM4Mnd-I)
 * [Fire2012: fire simulation for Arduino and LEDs](https://www.youtube.com/watch?v=_oVVCXOFDkw)
 * [Using I2S on the ESP8266 to drive WS2812Bs](https://www.youtube.com/watch?v=6zqGwxqJQnw)
-* [How to drive 5V WS2812 from a 3.3V microcontroller](https://twitter.com/strooom/status/1107028243822141440) using just one resistor and one diode.
 
 ### Miscellanea
 
 * [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/)
 * [Best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to avoid damaging your NeoPixels.
+* [How to drive 5V WS2812 from a 3.3V microcontroller](https://twitter.com/strooom/status/1107028243822141440) using just one resistor and one diode.
