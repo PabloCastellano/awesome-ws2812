@@ -75,6 +75,7 @@ LED matrices
 * [Rpi Matrix](https://github.com/sallar/rpi-matrix) - A simple RaspberryPi clock and browser simulator.
 * [Satellite tracker](https://github.com/PaulKlinger/satellite_tracker) - Project that shows satellites and space junk flying overhead.
 * [WordClock](https://github.com/maarten-pennings/WordClock) - A clock that tells time in plain text ([video](https://youtu.be/u285F07go_c)).
+* [LedFX](https://ledfx.app/) - Sync your WLED Devices with your music using E1.31
 
 ### Videos
 
