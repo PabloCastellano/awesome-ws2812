@@ -61,7 +61,7 @@ LED matrices
 
 * [HTML5 LED Matrix](https://github.com/sallar/led-matrix) - An HTML5 Canvas LED Matrix Simulator.
 * [LED Matrix Simulator](https://github.com/sallar/led-matrix-simulator) - A simple HTML5 LED Matrix Simulator for fun.
-* [FastLED Simulator]([https://github.com/sallar/led-matrix-simulator](https://www.fastledanimator.com/create)) - Empowers non coder to create art with RGB-led light strips.
+* [FastLED Simulator](https://www.fastledanimator.com/create) - Empowers non coder to create art with RGB-led light strips.
 * [Matrix display store](https://github.com/sallar/matrix-display-store) - Tools for creating Led Matrix content.
 * [NeoMatrix Generator](https://github.com/cesnokov/NeoMatrix-Generator) - NeoMatrix VISIWIG graphics editor.
 
